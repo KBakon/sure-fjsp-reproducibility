@@ -1,0 +1,3 @@
+# SURE-FJSP reproducibility artifact v1.0.0
+
+Initial release of the project-generated numerical evidence and standalone verifier for the GEN1 scientific freeze identified in `README.md`. The artifact checks released summary values, selections, RMSE ratios, intervals and support diagnostics; it does not reproduce the full simulation or reconstruct CVaR from raw replay observations. See `docs/PROVENANCE.md` and `docs/DATA_DICTIONARY.md` for scope and lineage. External benchmark inputs and unresolved legacy code are excluded. Licence mapping is in `LICENSES.md`. Creator metadata are recorded in `CITATION.cff`; repository and archive identifiers will be supplied after publication.

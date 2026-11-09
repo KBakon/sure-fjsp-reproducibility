@@ -1,0 +1,1 @@
+Python 3.11 or newer; only Python standard-library modules are required. Tested using the interpreter reported by the verification command. This specification covers only released-data validation, not simulation or the historical environment.
