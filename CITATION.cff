@@ -3,6 +3,10 @@ message: "If you use this artifact, please cite it as follows."
 title: "SURE-FJSP numerical evidence and verification"
 version: 1.0.0
 license: MIT
+doi: 10.5281/zenodo.24076119
+date-released: 2026-11-09
+repository-code: "https://github.com/KBakon/sure-fjsp-reproducibility/tree/v1.0.0"
+url: "https://doi.org/10.5281/zenodo.24076119"
 authors:
   - family-names: "Bakon"
     given-names: "Krisztián Attila"
