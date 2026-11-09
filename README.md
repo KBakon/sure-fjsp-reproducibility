@@ -22,4 +22,4 @@ This package contains project-generated summary data, not benchmark instance fil
 
 The project-created verification code `code/verify.py` is licensed under the MIT License; see `code/LICENSE`. Project-generated data and project-created release documentation are licensed under CC BY 4.0; see `LICENSES.md` for the file-by-file mapping and attribution guidance. No licence in this package applies to external benchmark material, which is not included.
 
-Please cite this versioned artifact using `CITATION.cff`. Add manuscript bibliographic details and actual public identifiers only after publication. No public URL or DOI is asserted here. See `RELEASE_NOTES.md` for this version and `MANIFEST.csv` and `SHA256SUMS.txt` for package inventory and integrity.
+Please cite this versioned artifact using `CITATION.cff`. Add manuscript bibliographic details and actual public identifiers only after publication. Version v1.0.0 is permanently archived on Zenodo: https://doi.org/10.5281/zenodo.24076119. See `RELEASE_NOTES.md` for this version and `MANIFEST.csv` and `SHA256SUMS.txt` for package inventory and integrity.
