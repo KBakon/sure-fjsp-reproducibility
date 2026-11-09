@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this artifact, please cite it as follows."
 title: "SURE-FJSP numerical evidence and verification"
 version: 1.0.0
+license: MIT
 authors:
   - family-names: "Bakon"
     given-names: "Krisztián Attila"
